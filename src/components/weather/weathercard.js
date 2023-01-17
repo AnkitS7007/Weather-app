@@ -27,6 +27,9 @@ const Weathercard = ({ tempInfo }) => {
         case "Mist":
           setWeatherState("wi-dust");
           break;
+        case "Night":
+          setWeatherState("wi-night-clear");
+          break;
         default:
           setWeatherState("wi-day-sunny");
           break;
