@@ -1,5 +1,5 @@
 # Weather App
 Project Link : https://weather-eosin-eight.vercel.app/
 
-![Screenshot (69)](https://user-images.githubusercontent.com/116058405/229280651-c1e7e6fd-f3eb-42b7-8e0f-caff54ce3dc3.png)
-![Screenshot (70)](https://user-images.githubusercontent.com/116058405/229280654-d2c3d222-93de-4201-8c1c-958c4df3ea51.png)
+![Screenshot (71)](https://user-images.githubusercontent.com/116058405/229280727-52bee296-6144-443f-b4cc-21f69b981ac7.png)
+![Screenshot (72)](https://user-images.githubusercontent.com/116058405/229280729-795b92e5-7b1b-4ab9-b5e9-5029b951c9a4.png)
